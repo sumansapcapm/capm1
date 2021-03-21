@@ -5,5 +5,3 @@ Add
 package-lock.json
 projects
 test
-tmp
-tmp
